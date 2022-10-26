@@ -5,7 +5,8 @@ const cors = require('cors');
 
 app.use(cors())
 
-const Categorys = require('./data/categories.json')
+const Categorys = require('./data/categories.json');
+const Details = require('./data/details.json')
 
 app.get('/', (req, res) => {
     res.send('server side running for frameworks')
@@ -13,6 +14,14 @@ app.get('/', (req, res) => {
 
 app.get('/categories', (req, res) => {
     res.send(Categorys)
+});
+
+app.get('/details/:id', (req, res) => {
+    const id = req.params.id;
+   
+    console.log(req.params);
+    const detailsNews = Details.find(n => n.id === id);
+    res.send(detailsNews);
 })
 
 app.listen(port, () => {
