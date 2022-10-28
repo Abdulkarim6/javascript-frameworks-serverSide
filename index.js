@@ -12,16 +12,26 @@ app.get('/', (req, res) => {
     res.send('server side running for frameworks')
 })
 
+app.get('/details', (req, res) => {
+    res.send(Details)
+})
+
+app.get('/details/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(req.params);
+    const eatchCategory = Categorys.find(n => n.id === id);
+    res.send(eatchCategory);
+})
+
 app.get('/categories', (req, res) => {
     res.send(Categorys)
 });
 
-app.get('/details/:id', (req, res) => {
+app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-   
     console.log(req.params);
-    const detailsNews = Details.find(n => n.id === id);
-    res.send(detailsNews);
+    const detailsCategory = Details.find(n => n.id === id);
+    res.send(detailsCategory);
 })
 
 app.listen(port, () => {

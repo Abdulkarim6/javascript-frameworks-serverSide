@@ -1,74 +1,58 @@
 [
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "id": "01",
         "category_id": "01",
         "title": "Angular JS",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://miro.medium.com/max/1400/1*Jb9xAs1zglLMElx-cpNRAg.png",
+        "details": "Angular, previously known as Angular JS, is a single web development framework developed by Google for both desktop and mobile web applications.Angular aims at creating progressive web apps by offering dependency injection that helps in data service assembly for applications while an HTML template is used for composing templates."
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "id": "02",
         "category_id": "03",
         "title": "React JS",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/react-JS-NEW.jpg",
+        "details": "React is Facebook's component-based web development and library for making UIs and offering declarative views, which makes the code more predictable and more comfortable to debug.It does not support controllers or models. React can also render on the server using Node and power mobile apps using React Native. In short, it allows you to build powerful, fast, user-friendly, and reactive web apps."
     },
     {
-        "id": "f69a695f037cd9484cecaea37ca71011",
+        "id": "03",
         "category_id": "01",
         "title": "Vue JS",
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "image_url": "https://wallpaperaccess.com/full/4584347.png",
+        "details": "Vue.js is another open-source progressive JavaScript framework for building user interfaces, similar to React.The USP of Vue.js is its adaptability, integration into projects that use other JavaScript libraries is very easy with Vue because it is designed to be incrementally adoptable."
     },
     {
-        "id": "f69a695f037cd9484cecaea37ca71012",
+        "id": "04",
         "category_id": "02",
         "title": "Ember JS",
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "image_url": "https://www.rlogical.com/wp-content/uploads/2021/01/Ember.js-1200x675.png",
+        "details": "Ember.js is another popular, open-source JavaScript web framework that is based on the Model and View pattern.It allows developers to create scalable single-page web applications by incorporating common idioms and best practices into the framework itself.It has integrated features like templates, also known as handlebars, that helps in writing less code and have the ability to update themselves with a change in data. Ember.js can be installed via NPM."
     },
     {
-        "id": "11468ed61aee84de492a8b04158a22f9",
+        "id": "05",
         "category_id": "03",
         "title": "Meteor JS",
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "image_url": "https://vexxhost.com/wp-content/uploads/2014/07/Small-Dive-Into-Meteor.JS.png",
+        "details": "Meteor or MeteorJS is a full-stack JavaScript platform for developing modern web and mobile applications.Meteor includes an essential set of technologies for building connected-client reactive applications, a build tool, and a curated set of packages from the Node.js and general JavaScript community."
     },
     {
-        "id": "11468ed61aee84de492a8b04158a22f0",
+        "id": "06",
         "category_id": "01",
         "title": "Node JS",
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+        "details": "Node.js or Node JS is another robust JavaScript framework that allows you to develop a server-side component using JavaScript. The most significant advantage of Node JS is that now you can develop a web application end-to-end using just JavaScript. It's also free and runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.) Node.js uses an asynchronous, event-driven, non-blocking I/O model that makes it lightweight and efficient."
     },
     {
-        "id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "id": "07",
         "category_id": "02",
         "title": "Polymer JS",
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+        "image_url": "https://jelvix.com/wp-content/uploads/2018/09/polymer.js_.jpg",
+        "details": "The polymer is another open-source JavaScript library that helps you create custom reusable HTML elements, which can be used to build performant, maintainable web applications.If you compare Angular with Polymer as both are developed by Google, then Angular is a complete framework for building web apps, whereas Polymer is just a library for creating Web Components."
     },
     {
-        "id": "a713ee936ff5574273f0f769f5c5b20e",
-        "category_id": "03",
-        "title": " Backbone JS",
-        "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-        "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
-        "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
-    },
-    {
-        "id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "id": "08",
         "category_id": "04",
         "title": " jQuery JS",
-        "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-        "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
-        "details": "1,000 pairs of autographed Size 22 Reeboks were made available thanks to a partnership between Shaquille O’Neal and Steiner Sports. Shaquille O’Neal is a larger-than-life character in every way. We’re talking about a superstar who earned as many self-styled nicknames as he did awards, a man who made his NBA debut by traveling from coast to coast like a speeding freight train. Naturally, O’Neal was also physically larger than most people due to his 7ft height and 300-pound weight. His absurd size 22 shoes could serve as an oversized phone for Allen Iverson. .@SHAQ‘s signature is going global. The 4x @NBA champ is bringing his SHAQ shoes to South Africa — priced between R799 & R999 ($52 – $65 USD) for children and adults. Shaq says the current line is aimed at “everyday consumers.” pic.twitter.com/MWEHdVZOX0 — Boardroom (@boardroom) January 16, 2022 O’Neal is a well-known figure outside of basketball, where he found tremendous success. The former NBA player is now much more than that because he is well-known all over the country. Shaq gained a lot of admirers by choosing to work with Wall-Mart to launch an affordable footwear line. This helped in solidifying his legacy beyond his playing career. Budget-friendly children’s shoes from O’Neal and the supermarket chain have been well received. Also, read – Anthony Davis and Patrick Beverley – A combination that will potentially make the Los Angeles Lakers a top-ranking defensive side again Shaquille O’Neal agreed to release a thousand autographed size-22 Shaq Attaq shoes for a premium! Shaq was the latest to cash in on the growing wave of collectors, as sports memorabilia for the biggest basketball stars of the 1990s continues to rise in demand. O’Neal has collaborated with Steiner Sports to release 1,000 unique pairs of his first-ever Reebok signature shoe. The Shaq Attaq; each shoe has a unique signature, numbered 32 or 34, with various call-outs to the Diesel’s career achievements such as “HOF 16” and much more. Each pair costs $999.32 and comes in a special glass case with personalized inscriptions. Shoe In: @shaq & @steinersports team up to offer 1,000 size 22 signed rookie shoes for $999.32 each pic.twitter.com/ypm5PFrEk7 — Darren Rovell (@darrenrovell) August 4, 2016 O’Neal collaborated with Steiner Sports, according to ESPN’s Darren Rovell, to provide fans with a pair of his signature shoes. 1,000 pairs of his first signature shoe—the Reebok Shaq Attaq—from his first season with the Orlando Magic were released. The limited edition shoes will cost a staggering $999.32 and come in Shaq’s size 22 feet. The CEO of Steiner Sports, Brandon Steiner, also said that this is just the beginning. The company will continue to produce other O’Neal memorabilia. These include shoes and jerseys that he wore for all of the NBA teams Shaq represented. Also, read – Michael Jordan, who owns a $15 million golf course, once openly mocked President Clinton in a game The post Shaquille O’Neal auctions a 1000 size 22 Reeboks for $999.32 each! appeared first on The SportsRush."
+        "image_url": "https://miro.medium.com/max/1024/1*tsqlgfBBb32ZLx1Y6bwzKA.jpeg",
+        "details": "jQuery is probably the most popular JavaScript library out there, which provides so many features for modern-day development.You can use jQuery API for event handling, animation, and manipulating the HTML document, also known as DOM. Besides this, jQuery is being used with Angular and React App building tools too. In short, one of the must-know JavaScript library for web development."
     }
 ]

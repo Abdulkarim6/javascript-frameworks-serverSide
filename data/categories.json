@@ -1,38 +1,42 @@
 [
     {
         "id": "01",
-        "name": "Angular JS"
+        "name": "Angular JS",
+        "price": "1000"
     },
     {
         "id": "02",
-        "name": "React JS"
+        "name": "React JS",
+        "price": "1600"
     },
     {
         "id": "03",
-        "name": "Vue.JS"
+        "name": "Vue.JS",
+        "price": "900"
     },
     {
         "id": "04",
-        "name": "Ember JS"
+        "name": "Ember JS",
+        "price": "1200"
     },
     {
         "id": "05",
-        "name": "Meteor JS"
+        "name": "Meteor JS",
+        "price": "2000"
     },
     {
         "id": "06",
-        "name": "Backbone JS"
+        "name": "Node JS",
+        "price": "1500"
     },
     {
         "id": "07",
-        "name": "Mithril JS"
+        "name": "Polymer JS",
+        "price": "3000"
     },
     {
         "id": "08",
-        "name": "Polymer JS"
-    },
-    {
-        "id": "09",
-        "name": "Node JS"
+        "name": "jQuery JS",
+        "price": "3500"
     }
 ]
